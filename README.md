@@ -63,4 +63,4 @@ This project is open-source under the MIT License. See the [LICENSE](LICENSE) fi
 - Built as part of a course at NC State University, under the guidance of Prof. Robert G. Carroll, Senior Vice President at QMS Capital Management, a quantitative hedge fund.
 
 ## Contact
-For questions or collaboration, reach out to divija-rao@ncstate.edu.
+For questions or collaboration, reach out to drbalasa@ncstate.edu.
