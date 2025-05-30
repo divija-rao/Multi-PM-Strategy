@@ -55,9 +55,6 @@ The Multi-PM-Strategy excels in delivering consistent risk-adjusted returns, ach
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
 
-## License
-This project is open-source under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Inspired by Merrill Lynch’s Investment Clock and Citadel’s Multi-Strategy model.
 - Built as part of a course at NC State University, under the guidance of Prof. Robert G. Carroll, Senior Vice President at QMS Capital Management, a quantitative hedge fund.
