@@ -1,7 +1,7 @@
 # Multi-PM-Strategy
 
 ## Overview
-The Multi-PM-Strategy is a QuantConnect-based trading algorithm that implements a multi-asset portfolio inspired by the Merrill Lynch Investment Clock and Citadel’s Multi-Strategy model. Developed by Divija Balasankula and Sophia (Qiao) Feng at NC State University, this project leverages economic cycle detection (Recovery, Overheat, Stagflation, Reflation) to manage a diversified portfolio including forex (EUR/USD), equity pairs (NVDA/AMD, with alternatives like KO/PEP or LOW/HD considered), bonds (IEF), and gold (GLD). Trade data from 2020–2025 shows solid activity, with a Sharpe ratio of approximately 1.0–1.3, reflecting the strategy’s ability to navigate diverse market conditions.
+The Multi-PM-Strategy is a QuantConnect-based trading algorithm that implements a multi-asset portfolio inspired by the Merrill Lynch Investment Clock and Citadel’s Multi-Strategy model. Developed by Divija Balasankula and Sophia (Qiao) Feng at NC State University, this project leverages economic cycle detection (Recovery, Overheat, Stagflation, Reflation) to manage a diversified portfolio including forex (EUR/USD), equity pairs (NVDA/AMD), bonds (IEF), and gold (GLD). Trade data from 2020–2025 shows solid activity, with a Sharpe ratio of approximately 1.0–1.3, reflecting the strategy’s ability to navigate diverse market conditions.
 
 ## Features
 - **Cycle-Adaptive Portfolio**: Adjusts allocations based on economic indicators like GDP growth, unemployment, and inflation.
@@ -60,7 +60,7 @@ This project is open-source under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Acknowledgments
 - Inspired by Merrill Lynch’s Investment Clock and Citadel’s Multi-Strategy model.
-- Built as part of the FIM590 course at NC State University, presented on March 25, 2025, under the guidance of Prof. Robert G. Carroll, Senior Vice President at a hedge fund.
+- Built as part of a course at NC State University, under the guidance of Prof. Robert G. Carroll, Senior Vice President at QMS Capital Management, a quantitative hedge fund.
 
 ## Contact
-For questions or collaboration, reach out to divija-rao@ncstate.edu or sophia-feng@ncstate.edu.
+For questions or collaboration, reach out to divija-rao@ncstate.edu.
