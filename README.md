@@ -59,7 +59,7 @@ The Multi-PM-Strategy delivers consistent risk-adjusted returns, achieving a rol
 
 ## Acknowledgments
 - Inspired by Merrill Lynch’s Investment Clock and Citadel’s Multi-Strategy model.
-- Built as part of the FIM590 course at NC State University, presented on March 25, 2025, under the guidance of Prof. Robert G. Carroll, Senior Vice President at QMS Capital Management, a quantitative hedge fund.
+- Built as part of a course at NC State University, under the guidance of Prof. Robert G. Carroll, Senior Vice President at QMS Capital Management, a quantitative hedge fund.
 
 ## Contact
-For questions or collaboration, reach out to divija-rao@ncstate.edu or sophia-feng@ncstate.edu.
+For questions or collaboration, reach out to drbalasa@ncstate.edu
