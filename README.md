@@ -1,7 +1,9 @@
 # Multi-PM-Strategy
 
 ## Overview
-The Multi-PM-Strategy is a QuantConnect-based trading algorithm that implements a multi-asset portfolio inspired by the Merrill Lynch Investment Clock and Citadel’s Multi-Strategy model. Developed by Divija Balasankula and Sophia (Qiao) Feng at NC State University, this project leverages economic cycle detection (Recovery, Overheat, Stagflation, Reflation) to manage a diversified portfolio including forex (EUR/USD), equity pairs (NVDA/AMD), bonds (IEF), and gold (GLD). Trade data from 2020–2025 shows strong performance, with an 18% CAGR reflecting the strategy’s ability to navigate diverse market conditions. Learn more in our [Medium article](https://medium.com/p/7bb60c469da4).
+The Multi-PM-Strategy is a QuantConnect-based trading algorithm that implements a multi-asset portfolio inspired by the Merrill Lynch Investment Clock and Citadel’s Multi-Strategy model. Developed by Divija Balasankula and Sophia (Qiao) Feng at NC State University, this project leverages economic cycle detection (Recovery, Overheat, Stagflation, Reflation) to manage a diversified portfolio including forex (EUR/USD), equity pairs (NVDA/AMD), bonds (IEF), and gold (GLD). Trade data from 2020–2025 shows strong performance, with an 18% CAGR reflecting the strategy’s ability to navigate diverse market conditions.
+
+Learn more in my Medium article, written by Divija Balasankula [Multi PM Trading Strategy on QuantConnect](https://medium.com/p/7bb60c469da4)
 
 ## Features
 - **Cycle-Adaptive Portfolio**: Adjusts allocations based on economic indicators like GDP growth, unemployment, and inflation.
@@ -54,9 +56,6 @@ The Multi-PM-Strategy delivers consistent risk-adjusted returns, achieving a rol
 3. Commit changes (`git commit -m "Add feature-name"`).
 4. Push to the branch (`git push origin feature-name`).
 5. Open a pull request.
-
-## License
-This project is open-source under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Inspired by Merrill Lynch’s Investment Clock and Citadel’s Multi-Strategy model.
