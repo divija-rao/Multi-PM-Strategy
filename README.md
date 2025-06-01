@@ -47,7 +47,7 @@ Learn more in my Medium article, written by Divija Balasankula [Multi PM Trading
 - `main.py`: Core trading algorithm implementation.
 - `requirements.txt`: List of Python dependencies.
 
-## Performance
+## Trade Performance
 The Multi-PM-Strategy delivers consistent risk-adjusted returns, achieving a rolling Sharpe ratio averaging around 10 with a peak above 20 in 2025 across diverse market conditions from 2020 to 2025, demonstrating its robustness. It achieved an 18% CAGR, driven by NVDA and AMD contributions, despite a maximum drawdown of 47% in 2025, mitigated by IEF gains, highlighting the strength of its diversification. Trade stats from 2020–2025 show 951 total orders (846 filled, 95 invalid), with 337 unique trades; 58% of trades were liquidated due to stringent risk controls, indicating an area for refinement in balancing risk and opportunity, while 10% invalid orders suggest potential improvements in data quality or execution logic. Additionally, 10 margin calls occurred, underscoring the need for enhanced leverage management.
 
 ## Contributing
