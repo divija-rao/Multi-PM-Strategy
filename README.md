@@ -62,4 +62,4 @@ The Multi-PM-Strategy delivers consistent risk-adjusted returns, achieving a rol
 - Built as part of a course at NC State University, under the guidance of Prof. Robert G. Carroll, Senior Vice President at QMS Capital Management, a quantitative hedge fund.
 
 ## Contact
-For questions or collaboration, reach out to drbalasa@ncstate.edu
+For questions or collaboration, reach out to drbalasa@ncsu.edu
